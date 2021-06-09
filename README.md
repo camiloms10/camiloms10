@@ -6,3 +6,6 @@
 - 💬 Ask me about sports, analytics, movies, anything else
 - 📫 How to reach me: via email, [LinkedIn](https://www.linkedin.com/in/camilo-manzur-4b7137a8/)
 
+## Skills:
+
+[SQL](https://img.shields.io/github/license/camiloms10/camiloms10?color=black&logo=mysql&logoColor=white)
