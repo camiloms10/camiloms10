@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working as an Excellence Engineer in Softys Mexico
 - 🌱 I’m currently learning SQL and Python
@@ -8,4 +8,5 @@
 
 ## Skills:
 
-[SQL](https://img.shields.io/github/license/camiloms10/camiloms10?color=black&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql&logocolor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=power-bi&logocolor=white)
