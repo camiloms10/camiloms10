@@ -10,4 +10,4 @@
 
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql&logocolor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=power-bi&logocolor=white)
-![Excel & Google Sheets](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=microsoft-excel)
+![Excel & Google Sheets](https://img.shields.io/badge/Excel-black?style=for-the-badge&logo=microsoft-excel)
