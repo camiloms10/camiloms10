@@ -18,6 +18,8 @@
 ## My Tech Stack (others):
 
 ![Snowflake](https://img.shields.io/badge/snowflake-black?style=for-the-badge&logo=snowflake)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=Mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![Power BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=power-bi&logocolor=white)
 ![Excel & Google Sheets](https://img.shields.io/badge/Excel-black?style=for-the-badge&logo=microsoft-excel)
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
