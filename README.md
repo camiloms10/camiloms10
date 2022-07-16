@@ -9,7 +9,7 @@
 ## Languages:
 
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql&logocolor=white)
-![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python)
 
 ## Web Frameworks:
 
