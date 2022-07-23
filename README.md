@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working as a Data Analyst in RAPPI
-- 🌱 I’m currently learning Python (Next objective: Data Scientist)
+- 🔭 I’m currently working as a Lead Demand Planner in Jüsto
+- 🌱 I’m currently extending my knowledge in Python (Next objective: Data Science)
 - 👯 I’m looking to collaborate on data analytics projects and insights
 - 💬 Ask me about sports, analytics, movies, anything else
 - 📫 How to reach me: via email, [LinkedIn](https://www.linkedin.com/in/camilo-manzur-4b7137a8/)
