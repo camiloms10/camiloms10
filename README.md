@@ -23,4 +23,8 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=power-bi&logocolor=white)
 ![Excel & Google Sheets](https://img.shields.io/badge/Excel-black?style=for-the-badge&logo=microsoft-excel)
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
+![Metabase](https://img.shields.io/badge/Metabase-black?style=for-the-badge&logo=metabase)
+![Tableau](https://img.shields.io/badge/tableau-black?style=for-the-badge&logo=tableau)
+
+
 
