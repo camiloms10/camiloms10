@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working as a Lead Demand Planner in Jüsto
+- 🔭 I’m currently working as a BI Specialist in Brillio
 - 🌱 I’m currently extending my knowledge in Python (Next objective: Data Science)
 - 👯 I’m looking to collaborate on data analytics projects and insights
 - 💬 Ask me about sports, analytics, movies, anything else
@@ -25,6 +25,4 @@
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
 ![Metabase](https://img.shields.io/badge/Metabase-black?style=for-the-badge&logo=metabase)
 ![Tableau](https://img.shields.io/badge/tableau-black?style=for-the-badge&logo=tableau)
-
-
-
+![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle)
