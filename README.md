@@ -25,4 +25,4 @@
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
 ![Metabase](https://img.shields.io/badge/Metabase-black?style=for-the-badge&logo=metabase)
 ![Tableau](https://img.shields.io/badge/tableau-black?style=for-the-badge&logo=tableau)
-![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle)
+![Oracle](https://img.shields.io/badge/Oracle-black?style=for-the-badge&logo=oracle)
