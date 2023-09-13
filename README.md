@@ -4,7 +4,8 @@
 - 🌱 I’m currently extending my knowledge in Data (Engineering and AI/ML tools)
 - 👯 I’m looking to collaborate on data analytics projects and insights
 - 💬 Ask me about sports, analytics, movies, anything else
-- 📫 How to reach me: via email, [LinkedIn](https://www.linkedin.com/in/camilo-manzur-4b7137a8/)
+- 📫 How to reach me: via email,  <a href="https://www.linkedin.com/in/camilo-manzur-4b7137a8/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30" /> [LinkedIn](https://www.linkedin.com/in/camilo-manzur-4b7137a8/)
+- 💼 Checkout my [portfolio website](https://camiloms10.github.io/)
 
 ## Languages:
 
