@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working as a BI Specialist in Brillio
+- 🔭 I’m currently working as a Data Scientist in WildFork
 - 🌱 I’m currently extending my knowledge in Data (Engineering and AI/ML tools)
 - 👯 I’m looking to collaborate on data analytics projects and insights
 - 💬 Ask me about sports, analytics, movies, anything else
